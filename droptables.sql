@@ -2,7 +2,7 @@ DROP TABLE 'Customer'
 ;
 DROP TABLE 'CustLocation'
 ;
-DROP TABLE 'Invoices'
+DROP TABLE 'Invoice'
 ;
 DROP TABLE 'Job'
 ;
@@ -16,5 +16,12 @@ DROP TABLE 'MachineType'
 ;
 DROP TABLE 'SalesAgent'
 ;
-DROP TABLE 'SalesClass' 
+DROP TABLE 'SalesClass'
 ;
+DROP TABLE 'FinancialSalesSummary'
+;
+DROP TABLE 'FinancialCostSummary'
+;
+DROP TABLE 'LeadFile' 
+;
+
